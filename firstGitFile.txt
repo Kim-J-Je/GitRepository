@@ -1,1 +1,1 @@
-Git tracks changes of filesss
+Git tracks new changes 
